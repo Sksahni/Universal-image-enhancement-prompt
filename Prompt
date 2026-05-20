@@ -1,0 +1,11 @@
+Ultra-realistic, high-resolution image enhancement. Preserve original composition, perspective, proportions, and framing exactly. Improve overall clarity and sharpness with extremely fine detail — visible textures, pores, strands, and micro details, especially in eyes and edges. Remove noise, compression artifacts, and blurriness while maintaining organic texture. Enhance dynamic range, rich mid-tones, and natural contrast. Soft, natural cinematic lighting correction that preserves realistic shadows and depth. Accurate, true-to-life colors with perfect balance and saturation. Very subtle fine film grain or natural texture — no toon, no cartoon, no painting, no stylized effects. Photorealistic, professional camera result, ultra high-definition, lifelike detail even at extreme zoom.
+Negative Prompt:
+
+crop, zoomed, close-up only, distorted framing, altered proportions, plastic skin, beauty filter, oversmoothing, waxy look, cartoon, anime, CGI, painting, artificial blur, fake bokeh, flat lighting, harsh lighting, over-sharpening halos, HDR fake, distorted eyes, extra artifacts, color banding, smartphone filter, sketch, low-res grain
+
+Recommended Settings (Optional — Copy/Paste If Your Tool Supports It)
+• Image-to-Image Strength / Denoise: 0.15–0.30
+• CFG / Guidance: 6–8
+• Steps: 30–45
+• Face Restore / Enhancement: OFF (for realistic detail)
+• Upscale: After final result only (2× max if needed)
